@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img src="https://i.pinimg.com/736x/18/5f/3e/185f3e23f2c44364a91ecb2084d48079.jpg" with="200" height="100">
+    <img src="https://github.com/lucdev-code/lucdev-code/blob/main/redmoonz_logo.jpg" with="200" height="100">
 </p>
 <div>
 <p><mark>luc@dev:~$</mark> whoami_</p>
