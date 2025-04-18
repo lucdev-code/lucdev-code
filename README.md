@@ -15,6 +15,11 @@
     <li>👨🏻‍💻 lamp </li>
     <li>👨🏻‍💻 postman </li>
 </ul>
+<p><mark>luc@dev:~$</mark> os_</p>
+  <ul>
+    <li>🐧 linux </li>
+    <li>🪟 windows </li>
+</ul>
 <p><mark>luc@dev:~$</mark> languages_</p>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
