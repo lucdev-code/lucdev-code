@@ -1,7 +1,12 @@
-<h3>Hi, I'm lucdev <img src="https://github.com/lucdev-code/lucdev-code/blob/main/hi.gif" width="25"></h3>
 
+  <h3 align="center">Hi, I'm lucdev <img src="https://github.com/lucdev-code/lucdev-code/blob/main/hi.gif" width="25"></h3>
+
+
+<p align="center">
+    <img src="https://i.pinimg.com/736x/18/5f/3e/185f3e23f2c44364a91ecb2084d48079.jpg" with="200" height="100">
+</p>
 <div>
-<p><mark>luc@dev:~$</mark> aboutme_</p>
+<p><mark>luc@dev:~$</mark> whoami_</p>
 <ul>
     <li>My friends used to call me lucero! ✌️</li>
     <li>I'm 20 years old 🤓</li>
