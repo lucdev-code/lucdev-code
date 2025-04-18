@@ -3,18 +3,26 @@
 <div>
 <p><mark>luc@dev:~$</mark> aboutme_</p>
 <ul>
-  <li>My friends used to call me lucero! ✌️</li>
-  <li>I'm 20 years old 🤓</li>
-  <li>I love spending time with my gf and my family ♥️</li>
-  <li>I hope to be in a good man and having my own family 👨🏽‍👩🏽‍👧🏽‍👦🏽</li>
+    <li>My friends used to call me lucero! ✌️</li>
+    <li>I'm 20 years old 🤓</li>
+    <li>I love spending time with my gf and my family ♥️</li>
+    <li>I hope to be in a good man and having my own family 👨🏽‍👩🏽‍👧🏽‍👦🏽</li>
 </ul>
 <p><mark>luc@dev:~$</mark> devtools_</p>
   <ul>
-  <li>VSCODE <img src="https://visualstudio.microsoft.com/es/downloads/" with="25">✌️</li>
-  <li>I'm 20 years old 🤓</li>
-  <li>I love spending time with my gf and my family ♥️</li>
-  <li>I hope to be in a good man and having my own family 👨🏽‍👩🏽‍👧🏽‍👦🏽</li>
+    <li>👨🏻‍💻 vscode </li>
+    <li>👨🏻‍💻 github </li>
+    <li>👨🏻‍💻 lamp </li>
+    <li>👨🏻‍💻 postman </li>
 </ul>
+<p><mark>luc@dev:~$</mark> languages_</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-79c1ff?style=for-the-badge&logo=typescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-c4e0e5?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black" />
+</p>
 </div>
 
 
