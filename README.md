@@ -10,8 +10,7 @@
 <ul>
     <li>My friends used to call me lucero! ✌️</li>
     <li>I'm 20 years old 🤓</li>
-    <li>I love spending time with my gf and my family ♥️</li>
-    <li>I hope to be in a good man and having my own family 👨🏽‍👩🏽‍👧🏽‍👦🏽</li>
+    <li>I love JavaScript and linux </li>
 </ul>
 <p><mark>luc@dev:~$</mark> devtools_</p>
   <ul>
