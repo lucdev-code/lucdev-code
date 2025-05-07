@@ -12,8 +12,15 @@
   <ul>
     <li>👨🏻‍💻 vscode </li>
     <li>👨🏻‍💻 github </li>
-    <li>👨🏻‍💻 lamp </li>
+    <li>👨🏻‍💻 git </li>
     <li>👨🏻‍💻 postman </li>
+</ul>
+<p><mark>luc@dev:~$</mark> db_</p>
+  <ul>
+    <li>🗃️ mysql </li>
+    <li>🗃️ psql </li>
+    <li>🗃️ mariadb </li>
+    <li>🗃️ sqlserver </li>
 </ul>
 <p><mark>luc@dev:~$</mark> os_</p>
   <ul>
