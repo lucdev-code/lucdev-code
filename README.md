@@ -8,7 +8,7 @@
 <ul>
     <li>My friends used to call me lucero! ✌️</li>
     <li>I'm 20 years old 🤓</li>
-    <li>I love  nodejs and linux </li>
+    <li>I love backend and linux </li>
 </ul>
 <p><mark>luc@dev:~$</mark> devtools_</p>
   <ul>
