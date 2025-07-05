@@ -1,7 +1,7 @@
 
   <h3 align="center">Hi, I'm lucdev <img src="https://github.com/lucdev-code/lucdev-code/blob/main/hi.gif" width="25"></h3>
 
-  <p align="center"><img src="https://github.com/lucdev-code/lucdev-code/blob/main/pato.gif" width="100"></img></p>
+  <p align="center"><img src="https://github.com/lucdev-code/lucdev-code/blob/main/me.gif" width="100"></img></p>
 
 <div>
 <p><mark>luc@dev:~$</mark> whoami_</p>
